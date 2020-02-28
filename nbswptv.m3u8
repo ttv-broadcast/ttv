@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://content-aapm1.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc/g.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=muted&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dlive%26categories%3D%26refdomain%3Dwptv.com%26iframed%3D0%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&pbs=2dc06ffa76e2453484fcc3066995b50a
